@@ -1,2 +1,2 @@
 # Eventopia
-work in progress ssssssss
+go to the wiki for info
